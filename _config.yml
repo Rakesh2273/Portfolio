@@ -1,5 +1,5 @@
-title: Rakesh Boda 
-logo: digital-passport(Rakesh_Boda).jpg_circle.png
-#description: text below image 
-show_down loads: true 
+title: Rakesh Boda
+logo: digital-passport(Rakesh_Boda).jpg  # Ensure this path is correct
+description: Python Full-Stack Developer
+show_downloads: true
 theme: jekyll-theme-minimal
