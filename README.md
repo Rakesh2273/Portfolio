@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh Boda
 
-![Profile Image](digital-passport(Rakesh_Boda).jpg_circle.png)
+![Profile Image](Rakesh_Boda)
 
 ## 🚀 Python Full-Stack Developer
 
