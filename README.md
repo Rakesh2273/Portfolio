@@ -1,8 +1,9 @@
-# Hi, I'm Rakesh Boda
+# Rakesh Boda
 
 ![Profile Image](Rakesh_Boda)
 
-[LinkedIn](https://www.linkedin.com/in/boda-rakesh-0922011a4) | [GitHub](#) | [Portfolio](#) | [Medium](#) | bodarakesh001@gmail.com | +1 (203)-936-9025
+[LinkedIn](https://www.linkedin.com/in/boda-rakesh-0922011a4) | [GitHub](https://github.com/Rakesh2273) |
+[Medium](https://medium.com/@bodarakesh001) | [GitHub](bodarakesh001@gmail.com) | +1 (203)-936-9025
 
 ## 👨‍💻 About Me
 Experienced Data Engineer and Data Analyst with a strong background in designing and developing scalable ETL pipelines, data architectures, and analytics solutions. Passionate about leveraging data-driven insights to optimize business processes and enhance decision-making.
