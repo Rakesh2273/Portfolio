@@ -1,5 +1,5 @@
 title: Rakesh Boda
-description: Python Full-Stack Developer
+description: Data Engineer
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 include: ["style.css"]
