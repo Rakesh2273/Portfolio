@@ -1,5 +1,5 @@
 title: Rakesh Boda
 description: Data Engineer
 show_downloads: true
-remote_theme: "cotes2020/jekyll-theme-chirpy"
-plugins: - jekyll-remote-theme
+theme: minimal-mistakes-jekyll
+include: ["style.css"]
