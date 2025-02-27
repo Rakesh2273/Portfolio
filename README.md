@@ -2,83 +2,53 @@
 
 ![Profile Image](Rakesh_Boda)
 
-## 🚀 Python Full-Stack Developer
+[LinkedIn](https://www.linkedin.com/in/boda-rakesh-0922011a4) | [GitHub](#) | [Portfolio](#) | [Medium](#) | bodarakesh001@gmail.com | +1 (203)-936-9025
 
-6+ years of experience in building scalable web applications and data-driven solutions. Passionate about developing efficient back-end systems, interactive front-end designs, and optimizing database operations.
+## 👨‍💻 About Me
+Experienced Data Engineer and Data Analyst with a strong background in designing and developing scalable ETL pipelines, data architectures, and analytics solutions. Passionate about leveraging data-driven insights to optimize business processes and enhance decision-making.
 
-**Technical Expertise:**
-- **Backend:** Python | Flask | FastAPI | Django  
-- **Frontend:** React | JavaScript | Bootstrap | HTML & CSS  
-- **Database:** PostgreSQL | MySQL | SQLite | Data Engineering  
-- **DevOps:** Docker | Azure DevOps | CI/CD | GitHub  
-- **Machine Learning & Data Analysis:** Pandas | NumPy | SciPy  
+## 🔧 Technical Skills
 
----
+- **Programming Languages:** Python (Core Python, OOP, Data Structures, NumPy, Pandas, SciPy)
+- **Frameworks & Libraries:** PySpark, Flask, FastAPI, Django, Pandas, NumPy, SciPy, Pytest, Unittest
+- **Data Engineering:** SQL, NoSQL (PostgreSQL, MongoDB), ETL Development, Data Pipelines, AWS (S3, Redshift, Athena, Glue)
+- **Automation & Scripting:** Unix Commands, Shell Scripting, Regular Expressions
+- **Big Data & Streaming:** Apache Kafka, AWS Kinesis, Dremio, Attunity Replicate
+- **Performance Optimization:** Multithreading, Multiprocessing, Asynchronous Programming, Caching
+- **Version Control & CI/CD:** GitHub, Docker, Bamboo, Bitbucket, Azure DevOps
+- **BI & Analytics:** Power BI, Tableau, Data Warehousing
+- **Cloud & Virtualization:** Docker, Kubernetes, Jenkins, GitLab
 
-## About Me
-- Passionate about building RESTful APIs and dynamic web applications.
-- Skilled in data modeling, query optimization, and ETL development.
-- Experienced with cloud deployment and containerization using Docker & Kubernetes.
-- Focused on writing clean, scalable, and maintainable code.
-- Collaborative team player, working efficiently in Agile environments.
+## 💼 Professional Experience
 
----
+### **Data Engineer | Invoice Cloud** *(April 2024 – Present)*
+- Designed and developed scalable ETL pipelines to process high-volume financial data.
+- Assisted in the migration of on-premises data processing systems to AWS and Snowflake.
+- Developed batch and real-time data workflows integrating Kafka and Spark Streaming.
+- Implemented advanced anomaly detection for fraud prevention.
 
-## Technical Skills
+### **Data Engineer | Verizon** *(January 2023 – March 2024)*
+- Built and maintained scalable ETL pipelines using Apache Spark and SQL.
+- Integrated diverse data sources into Verizon’s data lake.
+- Developed real-time data validation scripts in Python to improve accuracy.
+- Built interactive dashboards in Power BI and Tableau for network insights.
 
-**Programming Languages:** Python (Core, OOP, Data Structures, NumPy, Pandas, SciPy)  
-**Frameworks & Libraries:** Flask, FastAPI, Django, React, Pandas, NumPy, SciPy, Pytest, Unittest  
-**Database & Data Engineering:** PostgreSQL, MySQL, SQLite, Data Modeling, ETL Development  
-**Automation & Scripting:** Unix Commands, Shell Scripting, Regular Expressions  
-**Version Control & CI/CD:** GitHub, Docker, Azure DevOps, Jenkins  
-**APIs & Web Services:** REST APIs, AWS Lambda, Data Serialization  
-**Testing & Debugging:** Pytest, Unittest, Logging, Regression Testing  
-**Cloud & Virtualization:** Docker, Kubernetes  
-
----
-
-## Projects
-
-### E-commerce Inventory Management Platform
-**Tech Stack:** Flask, React, PostgreSQL, Docker, Azure DevOps  
-![E-commerce Project](images/ecommerce_platform.png)
-- Built a Flask-based inventory system for small businesses, improving stock visibility by 50%.
-- Designed REST APIs and optimized database queries for faster retrieval.
-- Developed a user-friendly front-end using React and Bootstrap.
-- Automated unit testing with Pytest, ensuring 95% code coverage.
-- Deployed using Docker & Azure DevOps for seamless CI/CD workflows.
-
-### Real-Time Traffic Analytics System
-**Tech Stack:** Django, PostgreSQL, React, Pandas, NumPy  
-![Traffic Analytics](images/traffic_analytics.png)
-- Created a Django-based system to analyze and visualize real-time traffic data.
-- Built interactive dashboards with React and Chart.js for live monitoring.
-- Automated data ingestion and processing using Pandas and NumPy.
-- Integrated secure API authentication and role-based access control.
-
-### Financial Fraud Detection System
-**Tech Stack:** FastAPI, PostgreSQL, Machine Learning (Scikit-Learn), Docker  
-![Fraud Detection](images/fraud_detection.png)
-- Developed a FastAPI system to detect fraudulent transactions in real-time.
-- Implemented ML models for fraud classification, improving detection accuracy.
-- Integrated with third-party payment processors via RESTful APIs.
+### **Python Developer | DigiSecure Solutions** *(October 2021 - December 2022)*
+- Developed a FastAPI-based system to detect fraudulent transactions in real-time.
+- Implemented machine learning algorithms for fraud classification.
 - Deployed and monitored the application using Docker and Prometheus.
 
----
+## 📚 Education
 
-## Education
-📍 **Master of Science, Business Analytics** – University of New Haven, USA  
-📍 **Bachelor in Engineering, Electrical and Electronics** – JNTUH Jagtial, India  
+- **Master of Science, Business Analytics** | University of New Haven, USA
+- **Bachelor’s in Engineering, Electrical and Electronics** | JNTUH Jagtial, India
 
----
-
-## Connect with Me
-🌐 **Portfolio:** [GitHub](https://rakesh2273.github.io/Portfolio/)  
-💼 **LinkedIn:** [Boda Rakesh](https://www.linkedin.com/in/boda-rakesh-0922011a4)  
-📧 **Email:** bodarakesh001@gmail.com  
-📞 **Phone:** +1 (203) 936-9025  
+## 📫 Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boda-rakesh-0922011a4) or reach out via email at bodarakesh001@gmail.com. Always open to discussing new opportunities and collaborations!
 
 ---
 
-### Want to Collaborate?
-I'm always open to working on exciting projects! Feel free to reach out via LinkedIn or Email.
+⭐ **Thank you for visiting my GitHub profile!** ⭐
+
+
+
